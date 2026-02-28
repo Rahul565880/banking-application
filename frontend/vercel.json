@@ -1,0 +1,11 @@
+{
+  "build": {
+    "command": "npm run build",
+    "outputDirectory": "dist"
+  },
+  "install": {
+    "packages": {
+      "manager": "npm"
+    }
+  }
+}
